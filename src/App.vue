@@ -278,13 +278,13 @@ export default {
   }
 
   th {
-    background-color: #4CAF50;
+    background-color: #87CEEB;
     color: white;
     cursor: pointer;
   }
 
   th:hover {
-    background-color: #45a049;
+    background-color: #00BFFF;
   }
 
   .selected {
@@ -297,7 +297,7 @@ export default {
     margin: 5px;
     border: none;
     border-radius: 4px;
-    background-color: #4CAF50;
+    background-color: #87CEEB;
     color: white;
     font-size: 14px;
     cursor: pointer;
@@ -305,11 +305,11 @@ export default {
   }
 
   button:hover {
-    background-color: #45a049;
+    background-color: #00BFFF;
   }
 
   button:active {
-    background-color: #388e3c;
+    background-color: #00BFFF;
   }
 
   button:disabled {
@@ -331,8 +331,7 @@ export default {
   }
 
   input[type="text"]:focus, input[type="number"]:focus, select:focus {
-    border-color: #4CAF50;
+    border-color: #87CEEB;
     outline: none;
   }
 </style>
-
