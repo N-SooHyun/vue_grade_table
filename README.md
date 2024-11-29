@@ -4,8 +4,6 @@
 
 This project is hosted on [GitHub Pages](https://n-soohyun.github.io/vue_grade_table/). You can view the live deployed application by clicking the link below:
 
-[Live Demo](https://n-soohyun.github.io/vue_grade_table/)
-
 ## Project setup
 ```
 npm install
