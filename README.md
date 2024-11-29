@@ -2,7 +2,7 @@
 
 ## Running on GitHub Pages
 
-This project is hosted on [GitHub Pages](https://n-soohyun.github.io/vue_grade_table/). You can view the live deployed application by clicking the link below:
+This project is hosted on [https://n-soohyun.github.io/vue_grade_table/](https://n-soohyun.github.io/vue_grade_table/). You can view the live deployed application by clicking the link below:
 
 ## Project setup
 ```
